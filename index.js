@@ -8,7 +8,7 @@ app.get("/", function(req,res){
 
 //rota do cadastro de produtos
 app.get("/produtos", function(req,res){
-    res.send("<h1>Lista de Produtos!</h1>");
+    res.send("<h1>Lista de Produtos! versão 4 </h1>");
 })
 
 //rota com parametro 
